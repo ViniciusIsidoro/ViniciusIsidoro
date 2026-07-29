@@ -8,7 +8,7 @@ I started building Bingo Snap after watching players manage 10–20 physical bin
 
 ## What I build
 
-- **Bingo Snap** — an Android product that scans physical bingo cards, helps players follow called numbers, supports in-app purchases, and has surpassed 1,000 downloads.
+- **Bingo Snap** — an Android product that scans physical bingo cards, helps players follow called numbers, supports in-app purchases, and has surpassed 2,000 downloads.
 - **Bingo Plan** — an Android product for bingo organizers, covering card creation, draws, winner verification, PDFs, voice, external displays, subscriptions, and usage credits.
 
 The core repositories are private. Public case studies will focus on the problems, decisions, experiments, architecture, metrics, and lessons without exposing sensitive code or credentials.
