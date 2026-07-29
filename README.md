@@ -39,9 +39,11 @@ My AI toolkit has included Codex, Gemini, Claude Code, NotebookLM, Google Stitch
 
 I work with data and operations at Grupo Boticário and previously worked with business intelligence, process automation, planning, and S&OP at Arco Educação and BRF. This background helps me connect product strategy with real operational constraints.
 
+In corporate environments, I also build internal decision-support tools with AI assistance. I translate operational and data-quality rules into human-in-the-loop workflows, integrate them with the Google ecosystem, and remain accountable for specifications, manual integration, testing, release discipline, documentation, and user enablement. Corporate code and internal details remain private; public materials focus on transferable methods and lessons.
+
 ## Tools and platforms
 
-`Codex` `Gemini` `Claude Code` `NotebookLM` `Google Stitch` `MCP` `GCP` `BigQuery` `SQL` `Python` `Flutter` `Supabase` `PostHog` `GitHub Actions` `Looker Studio` `Power BI`
+`Codex` `Gemini` `Claude Code` `NotebookLM` `Google Stitch` `MCP` `Google Apps Script` `GCP` `BigQuery` `JavaScript` `SQL` `Python` `Flutter` `Supabase` `PostHog` `GitHub Actions` `Looker Studio` `Power BI`
 
 ## Find me
 
