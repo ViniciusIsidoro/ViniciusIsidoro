@@ -1,54 +1,35 @@
-# Hi, I'm Darcy 👋
+# Darcy Isidoro
 
-**AI Product Builder · Product Manager · Product Owner**
+**Data & Automation Specialist · Product Manager**
 
-I turn ambiguous product and operational problems into shipped digital experiences by combining product thinking, data, automation, and hands-on AI-assisted building.
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/vinicius-isidoro/)
 
-I started building Bingo Snap after watching players manage 10–20 physical bingo cards and struggle to mark every called number in time. That observation became market research, a competitor benchmark, an MVP, and eventually two launched products.
+I work with logistics data at Grupo Boticário and build my own Android apps: **Bingo Snap** and **Bingo Plan**. My background is in operations, business intelligence, and planning, with previous roles at Arco Educação and BRF.
 
-## What I build
+## Products I've launched
 
-- **Bingo Snap** — an Android product that scans physical bingo cards, helps players follow called numbers, supports in-app purchases, and has surpassed 2,000 downloads.
-- **Bingo Plan** — an Android product for bingo organizers, covering card creation, draws, winner verification, PDFs, voice, external displays, subscriptions, and usage credits.
+### [Bingo Snap](https://play.google.com/store/apps/details?id=pro.bingosnap.app)
 
-The core repositories are private. Public case studies will focus on the problems, decisions, experiments, architecture, metrics, and lessons without exposing sensitive code or credentials.
+An app that scans physical bingo cards from a photo and helps players keep up with called numbers. It has **thousands of downloads** on Google Play.
 
-## How I work
+The idea came from watching people play with 10–20 cards at once. I researched the alternatives, defined the MVP, and built the app with AI coding tools. Today I use PostHog to understand how people use it and decide what to improve. I also manage subscriptions and in-app purchases.
 
-1. **Observe** the user and clarify the underlying problem.
-2. **Research** the market, alternatives, reviews, and business model.
-3. **Prototype** the experience and turn assumptions into a testable scope.
-4. **Decompose** the work into focused tasks that agents can execute reliably.
-5. **Build** with AI-assisted workflows while retaining product ownership.
-6. **Ship and instrument** behavior, reliability, and operational signals.
-7. **Learn and revise** the decision when the evidence changes.
+### [Bingo Plan](https://play.google.com/store/apps/details?id=pro.bingoplan.app)
 
-My AI toolkit has included Codex, Gemini, Claude Code, NotebookLM, Google Stitch, and MCP-enabled workflows. AI makes the build possible; problem selection, scope, trade-offs, validation, and accountability remain mine.
+An app for organizers: create cards, run draws, check winners, export PDFs, and display the game on a TV. It supports 75- and 90-ball games, voice announcements, subscriptions, and credits.
 
-## Current interests
+I manage the product and releases. One design decision was to give the TV its own read-only view, with larger numbers and winners shown first, so the audience can follow the game while the organizer uses the phone.
 
-- AI agents and multi-agent workflows
-- MCP and tool-enabled models
-- RAG and evaluation strategies
-- Product analytics and experimentation
-- Monetization and cross-product journeys
-- Reliable automations and guardrails
-- Cloud products, data, and operational platforms
+## Data & automation
 
-## Background
+- **Grupo Boticário:** freight auditing, data integration in BigQuery/GCP, and cost and service indicators. I also develop an internal tool with AI assistance, from business rules through testing and rollout.
+- **Arco Educação:** built a workflow using the OpenAI API to extract contract data and Selenium to update Zoho CRM, with a team review step before submission.
+- **BRF:** built a VBA/SAP automation that cut a daily data refresh from **3–4 hours to 10–15 minutes**. A separate automation made it possible to review the production plan weekly instead of every two weeks.
 
-I work with data and operations at Grupo Boticário and previously worked with business intelligence, process automation, planning, and S&OP at Arco Educação and BRF. This background helps me connect product strategy with real operational constraints.
+## Tools I use
 
-In corporate environments, I also build internal decision-support tools with AI assistance. I translate operational and data-quality rules into human-in-the-loop workflows, integrate them with the Google ecosystem, and remain accountable for specifications, manual integration, testing, release discipline, documentation, and user enablement. Corporate code and internal details remain private; public materials focus on transferable methods and lessons.
+- **Data:** SQL, Python, BigQuery, Google Cloud, Power BI, Looker Studio
+- **Apps:** Flutter, Supabase, PostHog, RevenueCat, Sentry
+- **Automation:** OpenAI API, Selenium, Google Apps Script, VBA, SAP
 
-## Tools and platforms
-
-`Codex` `Gemini` `Claude Code` `NotebookLM` `Google Stitch` `MCP` `Google Apps Script` `GCP` `BigQuery` `JavaScript` `SQL` `Python` `Flutter` `Supabase` `PostHog` `GitHub Actions` `Looker Studio` `Power BI`
-
-## Find me
-
-- [LinkedIn](https://www.linkedin.com/in/vinicius-isidoro/)
-- [Bingo Snap on Google Play](https://play.google.com/store/apps/details?id=pro.bingosnap.app)
-- [Bingo Plan on Google Play](https://play.google.com/store/apps/details?id=pro.bingoplan.app)
-
-> I care more about meaningful experiments, product decisions, and shipped outcomes than commit volume.
+The app and corporate repositories are private. You can try both products on Google Play or find more about my work on [LinkedIn](https://www.linkedin.com/in/vinicius-isidoro/).
